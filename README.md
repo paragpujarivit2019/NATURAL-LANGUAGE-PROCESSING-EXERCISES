@@ -5,8 +5,7 @@ Hands On task in SNLP class
 NATURAL LANGUAGE PROCESSING REVIEW 1
 
  22/05/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 1
- 
- https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-1.html.pdf 
+
  
   Study of Brown and Inaugural Corpus
   
@@ -19,7 +18,7 @@ NATURAL LANGUAGE PROCESSING REVIEW 1
   
 29/05/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 2
 
-https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-2%20.html.pdf
+
 
   Hands on Session on Stemming using PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer
   
@@ -37,7 +36,7 @@ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob
   
  12/06/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 3
  
- https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-%203%20html.pdf
+ 
  
   Hands on Task on Stop Words
   
@@ -51,15 +50,15 @@ NATURAL LANGUAGE PROCESSING REVIEW 2
 
  19/06/2020 - 19MAI0017 Parag Pujari Chunking of LOR LAB WEEK - 4
  
- https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20Chunking_of_LOR's%20.html.pdf
+
  
  REGIONAL LANGUAGES HOMEWORK TASK:
  
- https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20ORIYA_INLTK.html.pdf
  
- EXTRA WORK:
  
- https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/WORD%20-%20EMBEDDING.html.pdf
+ EXTRA WORK: EMBEDDING
+ 
+ 
  
   Hands on Task on Chunking operation of Letter of Recommendation of two documents
   
@@ -104,7 +103,7 @@ NATURAL LANGUAGE PROCESSING REVIEW 2
 
  26/06/2020 - 19MAI0017 Parag Pujari SENTIMENTAL ANALYSIS LOGISTIC REGRESSION LAB WEEK - 5
  
- https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20SENTIMENTAL%20ANALYSIS%20LOGISTIC%20REGRESS.pdf
+
  
     Hands on Task on Sentimental Analysis of Logistic Regression
     
