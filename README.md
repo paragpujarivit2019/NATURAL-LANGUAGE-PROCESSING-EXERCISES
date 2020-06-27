@@ -53,6 +53,8 @@ NATURAL LANGUAGE PROCESSING REVIEW 2
  
  https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20Chunking_of_LOR's%20.html.pdf
  
+ REGIONAL LANGUAGES HOMEWORK TASK:
+ 
  https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20ORIYA_INLTK.html.pdf
  
  EXTRA WORK:
