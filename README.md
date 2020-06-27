@@ -48,16 +48,19 @@ NATURAL LANGUAGE PROCESSING REVIEW 1
   
 NATURAL LANGUAGE PROCESSING REVIEW 2  
 
- 19/06/2020 - 19MAI0017 Parag Pujari Chunking of LOR LAB WEEK - 4
+LAB WEEK - 4
+
+ 19/06/2020 
+ 
+ 19MAI0017 Parag Pujari Chunking of LOR LAB WEEK - 4
  
 
  
- REGIONAL LANGUAGES HOMEWORK TASK:
+ 19MAI0017 Parag Pujari ORIYA_INLTK.html.pdf
  
  
- 
- EXTRA WORK: EMBEDDING
- 
+ WORD -EMBEDDING.html.pdf
+
  
  
   Hands on Task on Chunking operation of Letter of Recommendation of two documents
