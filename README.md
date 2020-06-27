@@ -1,5 +1,6 @@
 CSE6060_HandonTasks
 Hands On task in SNLP class
+
 NATURAL LANGUAGE PROCESSING REVIEW 1
  22/05/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 1
   Study of Brown and Inaugural Corpus
