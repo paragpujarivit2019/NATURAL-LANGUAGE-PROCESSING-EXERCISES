@@ -45,6 +45,8 @@ NATURAL LANGUAGE PROCESSING REVIEW 2
  19/06/2020 - 19MAI0017 Parag Pujari Chunking of LOR LAB WEEK - 4
  https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20Chunking_of_LOR's%20.html.pdf
  https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20ORIYA_INLTK.html.pdf
+ EXTRA WORK:
+ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/WORD%20-%20EMBEDDING.html.pdf
  
   Hands on Task on Chunking operation of Letter of Recommendation of two documents
   
