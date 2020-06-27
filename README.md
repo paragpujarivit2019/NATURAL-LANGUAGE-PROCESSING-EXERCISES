@@ -2,10 +2,10 @@ CSE6060_HandonTasks
 
 Hands On task in SNLP class
 
-https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-1.html.pdfhttps://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-1.html.pdf
+NATURAL LANGUAGE PROCESSING REVIEW 1
 
  22/05/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 1
- 
+ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-1.html.pdf 
   Study of Brown and Inaugural Corpus
   
   Hands on session on frequency distribution and conditional frequency distribution of various presidents from inaugral corpus.
@@ -15,7 +15,7 @@ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob
   Homework on the demonstration of Coca
   
 29/05/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 2
-
+https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-2%20.html.pdf
   Hands on Session on Stemming using PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer
   
   Lemmatization
@@ -31,7 +31,7 @@ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob
   Homework on Tokenization, Stemmming and Parts of Speech Tagging using a Corpus Data.
   
  12/06/2020 - NATURAL LANGUAGE PROCESSING LAB WEEK - 3
- 
+ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20LAB%20WEEK-%203%20html.pdf
   Hands on Task on Stop Words
   
   Hands on Task on Wordnet
@@ -43,7 +43,7 @@ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob
 NATURAL LANGUAGE PROCESSING REVIEW 2  
 
  19/06/2020 - 19MAI0017 Parag Pujari Chunking of LOR LAB WEEK - 4
- 
+ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20Chunking_of_LOR's%20.html.pdf
   Hands on Task on Chunking operation of Letter of Recommendation of two documents
   
      First Document
@@ -83,9 +83,10 @@ NATURAL LANGUAGE PROCESSING REVIEW 2
       - Performing the Web Scrapping Operation
       
     Homework and HandsTask on Natural Language Processing Operations on Regional Languages (Oriya)
+    https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20ORIYA_INLTK.html.pdf
 
  26/06/2020 - 19MAI0017 Parag Pujari SENTIMENTAL ANALYSIS LOGISTIC REGRESSION LAB WEEK - 5
- 
+ https://github.com/paragpujarivit2019/NATURAL-LANGUAGE-PROCESSING-EXERCISES/blob/master/19MAI0017%20Parag%20Pujari%20SENTIMENTAL%20ANALYSIS%20LOGISTIC%20REGRESS.pdf
     Hands on Task on Sentimental Analysis of Logistic Regression
     
       - Loading The Dataset
